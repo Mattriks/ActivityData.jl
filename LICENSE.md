@@ -1,4 +1,4 @@
-The ActivityData.jl package is licensed under the Simplified "2-clause" BSD License:
+The ActivityData.jl package is licensed under the "3-clause" BSD License:
 
 > Copyright (c) 2018: Mattriks.
 > All rights reserved.
@@ -23,6 +23,13 @@ The ActivityData.jl package is licensed under the Simplified "2-clause" BSD Lice
 >
 >   and/or other materials provided with the distribution.
 >
+>
+>
+> * Neither the name of the copyright holder nor the names of its contributors
+>
+>    may be used to endorse or promote products derived from this software
+>
+>    without specific prior written permission.
 >
 >
 > THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
